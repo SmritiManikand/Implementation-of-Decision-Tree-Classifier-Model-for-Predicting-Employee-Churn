@@ -58,13 +58,21 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+
 ![s1](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113674204/079a8329-e536-41b3-9ff3-4ac1daf7f841)
+
 ![s2](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113674204/a6da82e4-8ec6-493c-a38f-6088d2e072ff)
+
 ![s3](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113674204/2241fc4c-bce7-4fa1-bee3-d51c25b87150)
+
 ![s4](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113674204/c849a8d4-9e20-4537-aa25-15441e422d8c)
+
 ![s5](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113674204/2d65ce97-8235-425b-a28e-d46516ff2d73)
+
 ![s6](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113674204/94e6ba95-c88e-4c7e-9bff-2645d85b9ac4)
+
 ![s7](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113674204/6d5db6d7-d9ab-4384-ad5f-d9127a1c05ff)
+
 ![s8](https://github.com/SmritiManikand/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113674204/eb76a6e1-8003-49b5-b317-2561e57ad8ab)
 
 ## Result:
